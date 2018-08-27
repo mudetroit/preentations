@@ -1,4 +1,4 @@
-# Sunrise to SunSet: A day in Tech with mental illness
+# Sunrise to SunSet: A Day in Tech with Mental Illness
 
 ## Format
 Standard Session 45-60 minutes
@@ -14,9 +14,9 @@ Intermediate
 - Other
 
 ## Description
-- Wake up, and contemplate getting out of bed for 15 minutes. Not because you are tired.
-- Combat thoughts of self harm on your drive to work
-- Start shaking on the walk from where you parked to your office; because, you are terrified this is the day you will be fired
+- Wake up, and contemplate getting out of bed for 15 minutes. Not because you are tired
+- Combat thoughts of self-harm on your drive to work
+- Start shaking on the walk from where you parked to your office; you are terrified this is the day you will be fired
 
 You haven't even made it to work yet.
 
