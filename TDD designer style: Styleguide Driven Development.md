@@ -1,4 +1,4 @@
-# TDD designer style: Styleguide Driven Development
+# TDD Designer Style: Styleguide Driven Development
 
 ## Format
 Workshop 4hr
@@ -24,9 +24,9 @@ Enter Styleguide Driven Design, using the Styleguide as your test bed for develo
 
 - It provides a test bed for designers to see how a change will ripple across the application
 
-- New tools allow us to easily detect all of the places that will be updated by a design change.
+- New tools allow us to easily detect all of the places that will be updated by a design change
 
 Learn how to use Styleguide Driven Design to up your game.
 
 ### Notes
-This talk is going to necessarily pick a certain set of tools to demonstrate these techniques (in this case React, Storybook, and a few related ones), but specific effort will be taken to show how these techniques can be applied to other tech stacks as well.
+This talk is going to pick a certain set of tools to demonstrate these techniques (in this case React, Storybook, and a few related ones), but specific effort will be taken to show how these techniques can be applied to other tech stacks as well.
